@@ -1,0 +1,6 @@
+{
+    "target_bet": 100.0,
+    "test_iterations": 10,
+    "spin_delay_min": 3.0,
+    "spin_delay_max": 6.0
+}
